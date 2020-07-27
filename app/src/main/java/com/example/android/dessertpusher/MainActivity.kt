@@ -153,4 +153,5 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
         super.onStart()
         Log.i("HJ: MainActivity", "onCreate Called")
     }
+
 }
